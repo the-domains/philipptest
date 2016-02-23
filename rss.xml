@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PhilippTest]]></title>
         <description><![CDATA[PhilippTest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/philipptest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 14:41:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 14:41:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/philipptest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcb59171-6200-4730-9832-10c590753e45.jpg">]]></description>
-            <link>undefined9d9277f5-32be-4976-afa1-6b5499ceb04c/index.html</link>
+            <link>https://thegrid.ai/philipptest/9d9277f5-32be-4976-afa1-6b5499ceb04c/index.html</link>
             <guid isPermaLink="false">9d9277f5-32be-4976-afa1-6b5499ceb04c</guid>
-            <pubDate>Tue, 23 Feb 2016 14:40:10 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 14:40:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
